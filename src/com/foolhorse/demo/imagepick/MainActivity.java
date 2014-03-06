@@ -37,6 +37,7 @@ import android.widget.Toast;
 /**
  * sample of get image from camera or gallery , and alse can crop the image
  * after get it .
+ * https://github.com/foolhorse/AndroidImagePickAndCropDemo
  * 
  * @author foolhorse.com
  * 
